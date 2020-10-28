@@ -1,1 +1,1 @@
-# maritime-transport-services-and-infrastructure-supply
+Υλοποίηση εργασίας στα πλαίσια μεταπτυχιακού μαθήματος "Σχεδιασμός και Πολιτική Μεταφορών".
